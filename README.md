@@ -1,1 +1,1 @@
-# newnote
+# study note
