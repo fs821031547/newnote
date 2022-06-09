@@ -9,6 +9,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "shell": "chmod +x run.command",
     "deploy": "gh-pages -d dist",
     "deploy:build": "npm run docs:build && gh-pages -d dist -r <https://fs821031547@github.com/fs821031547/newnote.git>"
   },
